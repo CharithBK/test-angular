@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "angularfirebase-62aad": "angularfirebase-62aad"
+  },
+  "targets": {
+    "angularfirebase-62aad": {
+      "hosting": {
+        "uma-ui": [
+          "uma-test"
+        ]
+      }
+    }
+  }
+}

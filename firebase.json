@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "uma-ui",
+    "public": "dist/firebase-test-angular",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
